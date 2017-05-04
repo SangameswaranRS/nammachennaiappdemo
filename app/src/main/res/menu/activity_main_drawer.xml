@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homebtn"
+            android:title="Home"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_camera"
+
+            android:title="Add Event" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="View Events" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="Add boook to peer network" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="View Books" />
+        <item
+            android:id="@+id/manageBook"
+            android:title="Manage your book"/>
+        <item
+            android:id="@+id/map"
+            android:title="Map Activity"/>
+    </group>
+
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229682352624",
+    "firebase_url": "https://nammachennai-1c893.firebaseio.com",
+    "project_id": "nammachennai-1c893",
+    "storage_bucket": "nammachennai-1c893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229682352624:android:dc1e71c962aafdef",
+        "android_client_info": {
+          "package_name": "com.example.sangameswaran.nammachennai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229682352624-sp15mmaqte35vge4j6iolhhq49hpqn59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sangameswaran.nammachennai",
+            "certificate_hash": "31117f0f16d112656a5adee4f65a7b0d1b688322"
+          }
+        },
+        {
+          "client_id": "229682352624-pqa62fmjcaa5ukr2i6tl8f53qnncgp90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeeghJf6OYuaboQbmalrqk-ebneyTan0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229682352624-pqa62fmjcaa5ukr2i6tl8f53qnncgp90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
